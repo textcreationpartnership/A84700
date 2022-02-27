@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the last demands propounded by his Excellency Sir Thomas Fairfax, and the Councell of his Army to both Houses of Parliament, for vindication of the Parliament, for justice, and for the peace of the kingdome: with the answer of the House of Peers, and their approbation and order to returne thankes to the Gen: and the army.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84700</idno>
+            <idno type="STC">Wing F155</idno>
+            <idno type="STC">Thomason E404_3</idno>
+            <idno type="STC">ESTC R201843</idno>
+            <idno type="EEBO-CITATION">99862333</idno>
+            <idno type="PROQUEST">99862333</idno>
+            <idno type="VID">114490</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84700)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114490)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E404[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the last demands propounded by his Excellency Sir Thomas Fairfax, and the Councell of his Army to both Houses of Parliament, for vindication of the Parliament, for justice, and for the peace of the kingdome: with the answer of the House of Peers, and their approbation and order to returne thankes to the Gen: and the army.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>The declaration is dated at end: At the head Quarters of Kinston (sic) upon Thames, August 18. 1647.</note>
+                  <note>Annotation on Thomason copy: "Aug: 21 [?; ink has bled] 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>England and Wales. --  Army. --  Council --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:114490:1" rendition="simple:additions"/>
+            <head>A DECLARATION Of the laſt DEMANDS, Propounded by his Excellency Sir <hi>Thomas Fairfax,</hi> and the <hi>Councell</hi> of his <hi>Army</hi> to both Houſes of <hi>Parliament,</hi> for vindication of the <hi>Parliament,</hi> for Juſtice, and for the <hi>Peace</hi> of the Kingdome: with the <hi>Anſwer</hi> of the Houſe of <hi>Peers,</hi> and their <hi>approbation</hi> and <hi>Order</hi> to returne thankes to the <hi>Gen:</hi> and the Army.</head>
+            <p>THE Houſes being reſtored to a Condition of preſent ſafety, honour and freedome: Two things ſeeme clearly remaining to be done (which our own and moſt mens expectations are moſt ſet up<g ref="char:EOLhyphen"/>on) <hi>viz.</hi>
+            </p>
+            <p>Firſt, to vindicate the honour, freedome and ſafety of Parliament from the like affronts and violences in future, and the Army and Kingdome from danger of the like diſturbances (whilſt things ſhall be in a debate or treaty for a ſettlement) and then to proceed unto a ſpeedy ſettlement of the peace of the Kingdome.</p>
+            <p>The latter of theſe is firſt in our intentions (being neareſt to the ulti<g ref="char:EOLhyphen"/>mate end.) And we ſhall earneſtly deſire that in order thereunto, The pro<g ref="char:EOLhyphen"/>poſalls of the Army (whereof the heads are publiſhed) may be ſpeedily conſidered and brought to a reſolution. But conſidering that the debates of them may take up ſome time ere they be agreed on all hands, and the framing of them inty Bills, and perfecting of the ſame will require much more. Somthing muſt firſt be done in the former, for a preſent ſecurity to the Parliament from like affronts or violence, and to the Army and Kingdome from the like diſturbances to the peace thereof by any further advantage which the time like to be ſpent in the ſetling of peace, may af<g ref="char:EOLhyphen"/>ford to our watchfull, reſtleſſe, and (we doubt) implacable enemies.</p>
+            <p>Firſt, therefore to theſe ends (unleſſe it ſhould be thought fit to ſecure the Parliament by keeping the whole body of the Army, or ſo great a part thereof to remaine continually in and about <hi>London,</hi> as might be ſure to verpower any future tumults, or force that may ariſe out of the City, which neither the welfare of the City and eaſe of the parts adjacent,
+<pb n="2" facs="tcp:114490:2"/>nor the ſafety of the Kingdome in reſpect of the preſent poſture of affaires will admit.)</p>
+            <p>It is abſolutely neceſſary that there be ſpeedy and exemplary Juſtice done upon (at leaſt) the chiefe authors or abettors of the ſaid treaſonable en<g ref="char:EOLhyphen"/>gagement, and of the ſaid force done to the Parliament, and upon the chief actors, in maintenance and proſecution thereof (whereby men may be de<g ref="char:EOLhyphen"/>terred from the like in future.)</p>
+            <p>And this is alſo as neceſſary to the ſecurity of the Army, and peace of the Kingdome, ſince it is apparant by all that hath been ſaid, and by in<g ref="char:EOLhyphen"/>finite other evidences (too many to recount.) That both the ſaid ingage<g ref="char:EOLhyphen"/>ment, and the force done to the Parliament, and the power of the City <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>litia</hi> thereby gained, and the ſucceeding votes and orders of the preten<g ref="char:EOLhyphen"/>ded Houſes (but indeed of that faction that are our profeſſed enemies) in maintenance and proſecution thereof, and the Forces thereupon leav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed put and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Command of Major Gen. <hi>Maſſey,</hi> and others <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> adverſaries) were all deſigned and directed to the ruine and diſtruction of this Army, and the rayſing of a new Warre againſt us in this Kingdome. A diſſaving had ſuch experience of their reſtleſſe malice and cruel intenti<g ref="char:EOLhyphen"/>ons towards us, (notwithſtanding our tenderneſſe and lenity towards them) and of their treacherous dealing (ſo ſoone as they thought they had the advantage) no withſtanding all their ſemblances of complyance to a compoſure. What reaſon is there to expect, but that if by our patience and delayes, they apprehend in future the like or other advantage, they will breake out againe into the like or worſe attempts of violence and War, if all eſcape with impunity for theſe.</p>
+            <p>But as to this point of ſecurity by exemplary juſtice in an ordinary way, we ſee our hopes almoſt fruſtrated, whileſt, (though our deſires and reſolu<g ref="char:EOLhyphen"/>tions to that purpoſe, expreſt in our late declaration of our advance to<g ref="char:EOLhyphen"/>wards <hi>London,</hi> were then ſeconded with the declared approbation and con<g ref="char:EOLhyphen"/>current reſolutions of the Speakers and Members of both Houſes, that were driven away to the Army, and with their engagement to live and dye with us therein. And though in purſuance thereof, the Right Honou<g ref="char:EOLhyphen"/>rable Houſe of Peeres, have ſince their reſtitution, begun and proceeded to declare null and void, all that was done in the name of both Houſes, while they lay under the power of that tumultuous violence; and to give their more authentique approbation to our ſaid Declaration, made in behalf of the ſaid Speakers and Members, while they were with the Army: And i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> behalf of the honour and freedome of the Parliament, and to give their,
+<pb n="3" facs="tcp:114490:2"/>like approbation to the Concurrent Declaration and Engagement of the ſaid Speakers and Members, made to us while they were with us, yet) the Houſe of Commons hath not onely not concurred with the Lords in any of thoſe things, but rather ſeeme to have caſt them aſide. And upon the Queſtion concerning thoſe very Votes of the ſaid 26. of July. To which the Houſes were by the ſaid violence inforced [whether they ſhould be declared Null and void] it was carried in the Negative, That the queſtion ſhould not be put; by the conſequences whereof (which are many wayes very ſad, this poore Kingdome, and more then we can recompt) and by all ſubſequent proceedings in that Houſe, in relation to the whole buſineſſe, we clearely finde, That the Members of that Houſe, who (after the violence done to it, and during the abſence of the Speaker, and the other Members thereby driven away) proceeding in the name of that Houſe as aforeſaid procured the pretended Powers, and did make the pretended Votes, Or<g ref="char:EOLhyphen"/>ders, and Ordinances afore mentioned; and many of them were the Fa<g ref="char:EOLhyphen"/>ctors thereupon for the leavying of war, in proſecution and maintenance of the aforeſaid treaſonable engagement, and force done to the Parliament, and for the oppoſing reſiſting and deſtroying of this the Parliaments Ar<g ref="char:EOLhyphen"/>my in its advance to <hi>London,</hi> for the reſtitution of the Parliament to its Ho<g ref="char:EOLhyphen"/>nour and freedome, being conſcious of their own guilt and danger thereby; yet preſuming on their intereſt in the Houſe, and the patience and lenity of this Army doe continue and intrude themſelves, and to ſit and Vote there, and by their preſent intereſt in the Houſe doe uſe their utmoſt endea<g ref="char:EOLhyphen"/>vours, and very much prevaile to obſtruct and avoyd the bringing of any to Juſtice, who have acted under their pretended Authority, (knowing it to be their own caſe and concernment in point of impunity, as well as con<g ref="char:EOLhyphen"/>ducency to their faction and intereſt) And for that cauſe they labour (As for life) to uphold the things paſt and done, and the Authorities given by them and their Faction (in their and the Apprentices pretended Parliament) yea, even thoſe very Votes and Authorities, wreſted from the Parliament, by that palpable force of <hi>July</hi> the 26. to be good and valid untill they be repealed (as if paſt in a free and legall Parliament;) in which Point, and all Queſtions touching upon it, we finde they preſume upon, and are ſtrength<g ref="char:EOLhyphen"/>ened by the conccurrence of divers other Members, who having (perhaps with harmleſſe intentions continued to ſit with them during the Speakers abſence, as aforeſaid (though they conſented not to any of their miſchievous Votes and Orders, or treaſonable proceedings ofore mentioned) may yet feare themſelves to be involved in the ſame caſe and danger by having ſate with them; And thus by the concurrence of theſe two Parties in the Houſe (as to that point) and the intereſt which both thoſe Parties have
+<pb n="4" facs="tcp:114490:3"/>with others in the Houſe (eſpecially upon a matter of ſaving one another) and by the partiall reſpects of ſome others in the Houſe, for the ſaving of their friends out of the Houſe, who have acted under the authority, and for the evil ends aforementioned, we finde an abſolute obſtruction to the bringing to Juſtice, or queſtioning of any) who have acted in the late lea<g ref="char:EOLhyphen"/>vying of War againſt us, and againſt the vindication of the Parliaments freedome, or in the ſaid treaſonable engagements, yea, or in abetment of the tumultuous violence upon the Parliament it ſelf; neither can we finde or heare of any one Perſon hitherto brought to Juſtice, or Queſtion for any of theſe things, but all ſeeme to be either juſtified, or at leaſt protected from Juſtice by the power and prevalence of thoſe Members in Parliament, who are (many of them, as we can make appeare (equally guilty of, and (others) in ſome kinde obnoxious for the ſame things; and thus not onely our juſt expectations of vindication to the Parliament, and ſecurity to our ſelves and the Kingdome from the like treaſonable and turbulent pra<g ref="char:EOLhyphen"/>ctiſes in future, (by exemplary Juſtice for what hath beene ſo done) are fruſtrated, but even the ſafety and immunity of the Speakers, and thoſe faithfull Members of both Houſes that were driven away by the vio<g ref="char:EOLhyphen"/>lence aforeſaid, and the immunity of the Army in advancing to <hi>London,</hi> to bring them back, and reſtore the Parliament to its Honour and Freedome (which hath been acknowledged, with publike Thankeſgiving to God for it, as aforeſaid) is ſubjected and expoſed to queſtion (where in theirs and ours, and the Kingdoms enemies obtrude themſelves to be the Judges) for if thoſe pretended Votes, Orders, and Ordinances, whereby War was leavied againſt them and us were then good and valid (though they ſhould now be repealed, yet) we, with the Speakers, and thoſe Members aforeſaid, in oppoſing of them while they were of force, muſt needs remain tranſ<g ref="char:EOLhyphen"/>greſſors ſtill, and yet God and we are thanked for it [what a mock is this to God, and man.]</p>
+            <p>But to returne to the more ſerious conſideration of our caſe, in rela<g ref="char:EOLhyphen"/>tion to the ſecurity of the Parliament, Kingdom, and our ſelves, againſt the like turbulent and treaſonable practiſes in future, ſince by the meanes aforeſaid no ſecurity by exemplary Juſtice can at preſent be had, (to deter any from the like) we wiſh all men to conſider what ſtreights we are in this caſe put upon; (That which is the main work of the Kingdome, and which we moſt earneſtly thirſt for, and attend upon, viz. the ſetling of a peace, and conſideration of our Propoſalls in order thereunto will aske <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me to bring it to an iſſue; and that done, the releiving or remedying of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preſſing grievances of the Kingdome, will take up and require the ſit<g ref="char:EOLhyphen"/>ting of the Parliamen for ſome further time [though upon the ſetling of a
+<pb n="5" facs="tcp:114490:3"/>Peace a period be ſet for the certain ending of it, now for the body of this this Army or ſo great a part of it [as may ſerve to over-poure any future tumults, or force that may ariſe in or from the City] to coninue hereabouts ſo long as the Condition of the Countrey hereabouts and the neceſſities of the Citie [in point of proviſion] cannot well beare it, and [we doubt] forraigne Forces [that are already upon the wing] and turbulent ſpirits, that in ſeverall parts of the Kingdome, are be<g ref="char:EOLhyphen"/>ginning inſurrections, [if we continue fixed here, will have ſuch opportu<g ref="char:EOLhyphen"/>nity, and take ſuch encouragement therefrom, as that they may ere long ne<g ref="char:EOLhyphen"/>ceſſarily call us off; ſhould we now or hereafter, while the Parliament ſits draw off the Army from about the City, without exemplary Juſtice upon ſome, would not the ſame or more dangerous tumults and violences pro<g ref="char:EOLhyphen"/>bably return upon the Parl. &amp; the like or worſe practiſes of raiſing a new war, be revived, with more advantage to our enemies, more danger to us and the kingdom, and leſſe hopes of appeaſing it, ſo eaſily and happily as the former) while the ſame violent and factious ſpirits, both in the Parliament and elſewhere; ſhall continue in the ſame power and oportunities as for<g ref="char:EOLhyphen"/>merly, and both they, and all others, ſhall have before their eyes the in<g ref="char:EOLhyphen"/>couragement of that impunity and protection (yea rather that juſtification) which they have hitherto found from within the Parliament it ſelfe, in the paſt practiſes aforementioned, though as groſly treaſonable as any they can hereafter run into, ſhould we or any others (for the obtaining exemplary Juſtice upon ſome) proceed to impeach any, for their paſt trea<g ref="char:EOLhyphen"/>ſonable practiſes, what hopes of juſtice, or of a timely diſpatch therein can we have, while ſuch a prevailing party of new intereſted and concerned in the ſame things; ſhall in the Houſe of Commons continue to be Judges thereof, or at leaſt be ready to avow and juſtifie the offenders therein, as having acted under their pretended Authority. In this ſtraight therefore (though we have ever been, and ſhall be moſt tender of all juſt Priviledges of Parliament, finding the root of theſe and other difficulties to the Parliament, yet) Kingdome, and our ſelves, to lye in this, <hi>viz.</hi> (that that thoſe Members of the Houſe of Commons, who, during the forceed abſence of the Speakers of both Houſes, continuing to ſit and act as a Par<g ref="char:EOLhyphen"/>liament, did procure and conſent to the pretended Votes, Orders and Or<g ref="char:EOLhyphen"/>dinances aforementioned, for levying of Warre, and that, as is before de<g ref="char:EOLhyphen"/>monſtrated, in direct proſecution or maintenance of she aforeſaid treaſona<g ref="char:EOLhyphen"/>ble ingagement, and the violence done to the Parliament, and for the op<g ref="char:EOLhyphen"/>poſing, reſiſting, and deſtroying of this the Parliaments Army in its ad<g ref="char:EOLhyphen"/>vance towards London, only to reſtore the Speakers and Members of both Houſes that were driven away, and the Houſes themſelves to their honour and freedome, and who are thereby, and by their late owning, and avowing of the ſame, and many of them, as we can prove, by acting perſonally in the
+<pb n="6" facs="tcp:114490:4"/>ſaid treaſonable practiſes, become parties to the ſame, doe yet take the boldneſſe to ſit and vote in Parliament, eſpecially in the Houſe of Com<g ref="char:EOLhyphen"/>mons) we ſay, finding the maine root of our difficulties and dangers lying in this.</p>
+            <floatingText xml:lang="eng" type="appeal">
+               <body>
+                  <p>
+                     <hi>Firſt, we appeale to all men, whether it be juſt or tollerable, that any privilede of Parliament ſhould (contrary to the Law of Nature) make a man iudge in his own caſe and concernment.</hi>
+                  </p>
+                  <p>
+                     <hi>And next we wiſh thoſe men themſelves to conſi<g ref="char:EOLhyphen"/>der, if we had come to an ingagement with the for<g ref="char:EOLhyphen"/>ces raiſed by vertue of their pretended Votes and Ordinances, and that thouſands had been ſlaine, and we had made our way by the Sword, whether they would then have expected to have ſate as Judges upon us therein; and we are ſure it is no thanks to them that it hath been otherwiſe; and had we found thoſe Members in Armes againſt us, and ſubdued and taken them, whether had they not then been in the condition of priſoners of Warre; and if ſo, then having put Armes into the hands of others, against us, and ſtill maintaining it, whether can they in ſtrict Juſtice challenge any better condition from us. But, that contrariwiſe, we ſhould ſuffer, either that thoſe whom by the courſe of Warre, which they had choſe to ingage in
+<pb n="7" facs="tcp:114490:4"/>againſt us, we might juſtly make one priſoners, ſhould in a courſe of Law, be<g ref="char:EOLhyphen"/>come our Maſters and Commanders; or that thoſe who the other day did, in an heſtile manner, indeavour to have been our executioners, ſhould, now we have by force tooke their preparations againſt us, become our Iudges, we ſuppoſe, no reaſonable man, nor themſelves, when they will conſider it, can expect from us.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>Vpon all theſe conſiderations of the juſtneſſe of the cauſe, and the neceſ<g ref="char:EOLhyphen"/>ſity of the thing, for the ſafety of the Parliament, Kingdome, and this Army, (having no other way left timely to remedy the difficulties we are put upon, or prevent the growing dangers of future violence unto the Parliament, and diſturbances to the Kingdome, or to ſecure the Parlia<g ref="char:EOLhyphen"/>ment in a quiet proceeding to ſettle the peace of the Kingdome: And (in ſuch caſe) the ſafety of the people being the ſupria<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Law we do proteſt and declare: That if any of thoſe Members, who during the abſence of the Speakers, and the reſt of the Members of both Houſes (forced away by the tumultuous violence aforeſaid) did ſit, and Vote in the pretended Hou<g ref="char:EOLhyphen"/>ſes then continuing at <hi>Weſtminſter,</hi> that hereafter intrude themſelves to ſit in Parliament, before they ſhall have given ſatisfaction to the reſpective Houſes whereof they are, concerning the grounds of their ſad ſitting at <hi>Weſtminſter,</hi> during the abſence of the ſaid Speakers, and ſhall have ac<g ref="char:EOLhyphen"/>quitted themſelves by ſufficient Evidence, That they did not procure, or give their conſent unto any of thoſe pretended Votes, Orders, or Ordinan<g ref="char:EOLhyphen"/>ces tending to the raiſing and leavying of a Warre (as is before declared: or for the Kings coming forthwith to <hi>London</hi>) we cannot any longer ſuffer the ſame, but ſhall do that right to the Speakers and Members of both Houſes, who were driven away to us, and to our ſelves with them (all whom the ſaid other Members have endeavoured in an Hoſtile manner moſt unjuſtly to deſtroy) and alſo to the Kingdome (which they endea<g ref="char:EOLhyphen"/>voured to imbroyle in a new Warre) as to take ſome ſpeedy and effectuall courſe, whereby to reſtraine them from being their own, and ours, and the Kingdomes Judges in thoſe things wherein they have made them<g ref="char:EOLhyphen"/>ſelves Parties, by this meanes to make Warre, that both they and others that are guilty of, and Parties to the aforeſaid treaſonable and deſtructive practices and proceedings againſt the freedome of Parliament, and peace of the Kingdome, may be brought to condigne puniſhment (and that) at the Judgement of a free Parliament, conciſting (duly and properly) of
+<pb n="8" facs="tcp:114490:5"/>ſuch Members of both Houſes reſpectively, who ſtand cleare from ſuch apparant and treaſonable breach of their truſt as is before expreſſed.</p>
+            <closer>By the appointment of his Excellency, and the Generall Councell of his Army. <signed>Signed, <hi>Io. Ruſhworth</hi> Secretary.</signed>
+               <dateline>
+                  <hi>At the head Quarters of Kinſton upon Thames,</hi> 
+                  <date>
+                     <hi>Auguſt</hi> 18. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="remonstrance">
+            <head>
+               <date>Die Veneris, Auguſt <hi>20. 1647.</hi>
+               </date>
+            </head>
+            <p>UPon the reading of a Letter from his Excellency, Sir Thomas Fairfax, (Commander in chiefe of all the Forces in England and Wales.) And a Remonſtrance, with Propoſalls from his Excellency and the Counſell of his Army. It was re<g ref="char:EOLhyphen"/>ſolved by the Lords in Parliament aſſembled, that they doe ap<g ref="char:EOLhyphen"/>prove of the ſaid papers, and that a letter be written to the Gene<g ref="char:EOLhyphen"/>rall to give his Excellency and this Army thankes.</p>
+            <closer>
+               <signed>John Brown Clericus Parliamentorum,</signed>
+            </closer>
+            <trailer>FJNIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
